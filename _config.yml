@@ -1,0 +1,19 @@
+title:             Semperwave
+email:             semperwave@gmail.com
+description:       Nihilistic indie game dev blog.
+author:            Semperwave
+url:               "https://semperwave.github.io/semperblog"
+
+# Social Profiles
+twitter_username: semperwave
+github_username: semperwave
+medium_username: semperwave
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
